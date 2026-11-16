@@ -1,0 +1,91 @@
+header {
+    background-color: #c90000; 
+    font-size: 14px;
+    padding: 10px; 
+    position: fixed; 
+    width: 100%; 
+} 
+
+footer {
+    padding: 10px; 
+    color: #fff;
+} 
+
+section { 
+    background-color: #e00000;
+    margin: 20px;
+    padding: 20px; 
+    color: #fff;
+} 
+
+aside {
+    padding: 15px;
+    margin: 10px; 
+    color: #fff;
+} 
+
+.imgPrincipal { 
+    display: flex; 
+    flex-direction: row; 
+    height: 700px;
+    width: 600px; 
+} 
+
+.imgFaceBolt {
+    height: 300px;
+    width: 300px;
+} 
+
+.imgEnergyRing {
+    height: 300px;
+    width: 300px;
+} 
+
+.imgFusionWheel {
+    height: 300px;
+    width: 300px;
+} 
+
+.imgSpinTrack {
+    height: 300px;
+    width: 300px;
+} 
+
+.imgPerformanceTip {
+    height: 300px;
+    width: 300px;
+} 
+
+.imgPartesDoBey {
+    height: 500px;
+    width: 500px;
+}  
+
+.botao { 
+    background-color: #680000;
+    width: 45px;
+    height: 25px; 
+
+}
+
+.imgCentro {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+body {
+    background-color: #202020; 
+    max-width: 100%; 
+    max-height: 100%;
+} 
+
+a {
+    color: #eeeeee; 
+} 
+
+div {
+    display: flex; 
+    flex-direction: row;
+}
